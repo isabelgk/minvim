@@ -1,0 +1,3 @@
+# minvim
+
+minimal .vimrc settings
